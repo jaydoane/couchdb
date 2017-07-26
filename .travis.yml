@@ -36,7 +36,7 @@ cache:
 # logfile uploader credentials
 env:
   global:
-    - secure: "UdA/gKIlyuXaW+hUgRx40t1TYjLCGxMqHvM5Uw7UbUH2dqEkgJiLfhZGchS1JVzl8M01VKZUUzS7v2nvRLiHZN1kvaw5kfq31VRoafUah8jfmvqNWZVdLovHl3aw5UX/HRt0RkbWbhdbdknTfh6+YinSZ+Nb54jCErMg9nabXtM="
+    - secure: "EmwvObkaQVcrve9xUp2p2aAkqEltkNypK/7O55kwbAdTOF5ihKZfgEp3KSd3LsfO3AEMGXb3yDP4MZpyLlFSi81rY2lOsbwbUqnqT4WKVijEEyknLcO9pHsK1QkFfjX3YgnUe5DIs4sQGOVYUlWbm9AfswGGJzyrw3BVd9OgHIA="
     - COUCHDB_IO_LOG_DIR=/tmp/couchjslogs
 
 # Enable this block if you want to build docs & fauxton too
